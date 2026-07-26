@@ -1,3 +1,2 @@
-# portfolio
-Моё портфолио в формате PDF
-[Портфолио.pdf](https://github.com/user-attachments/files/27426284/default.pdf)
+[Портфолио-1.pdf](https://github.com/user-attachments/files/30382916/-1.pdf)
+
